@@ -36,6 +36,7 @@ A robust command-line tool for securely encrypting and decrypting files and dire
 
    ```bash
    pip install pycryptodome colorama
+```
 
 ##▶️ How to Use
 
@@ -43,10 +44,10 @@ Run the script from your terminal to launch the interactive menu.
 
    ```bash
    python3 secure_encryptor.py
-
+```
 You will be presented with the following options:
 
-```
+
 ==============================
     SECURE FILE ENCRYPTOR
 ==============================
@@ -55,7 +56,7 @@ You will be presented with the following options:
 3. Exit
 ------------------------------
 Enter your choice (1-3):
-```
+
 
 * Select an option (1, 2, or 3).
 * Enter the full path to the file or directory you want to process.
